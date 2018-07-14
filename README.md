@@ -10,4 +10,4 @@ In this course I learnt different things such as:
 * SEO
 * Media Queries
 
-![alt text](https://media.giphy.com/media/1xne4q3gie8Jk4DUCe/giphy.gif)
+![alt text](https://media.giphy.com/media/kFl7DuiiVAPUtOhvc5/giphy.gif)
