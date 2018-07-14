@@ -10,5 +10,4 @@ In this course I learnt different things such as:
 * SEO
 * Media Queries
 
-![Alt Text](https://media.giphy.com/media/1xne4q3gie8Jk4DUCe/giphy.gif)
-<img src="(http://g.recordit.co/PrPbMADtTz.gif" width="400" height="400" />
+![alt text](https://cdn.thesoccerstore.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/samba_16_x_7_match_front.1517503412.jpg)
